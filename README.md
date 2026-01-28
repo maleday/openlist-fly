@@ -1,4 +1,4 @@
-# OPENLIST-FLY-test
+# OPENLIST-FLY
 
 是 openlist 服务的 fly.io 部署形式
 
