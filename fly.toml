@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'lushi-openlist-v2'
+app = 'jun-openlist-v1'
 primary_region = 'hkg'
 kill_signal = 'SIGINT'
 kill_timeout = '5s'
